@@ -1,0 +1,16 @@
+  282  git push -u origin feature 
+  283  git status
+  284  git log
+  285  git commit --amend -m "Add updates to README.md and .gitignore - ammend" 
+  286  git log
+  287  git status
+  288  git push
+  289  git push -f origin feature 
+  290  git branch
+  291  git checkout main
+  292  git branch
+  293  git merge feature
+  294  git branch -v
+  295  git log
+  296  git status
+  297  history
